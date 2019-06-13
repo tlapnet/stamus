@@ -12,16 +12,17 @@ Simple state machine library for verifying State transitions
 
 ## Documentation
 
+- [Setup](.docs/README.md#setup)
 - [State](.docs/README.md#state)
 - [Transitions](.docs/README.md#transitions)
 - [Example usage](.docs/README.md#example-usage)
 
-## Versions
+## Version
 
 | State       | Version | Branch   | PHP    |
 |-------------|---------|----------|--------|
+| dev         | `^0.2`  | `master` | `^7.2` |
 | stable      | `^0.1`  | `master` | `^7.2` |
-
 
 ## Maintainers
 

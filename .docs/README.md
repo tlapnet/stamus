@@ -1,3 +1,20 @@
+# Tlapnet Stamus
+
+Simple state machine library for verifying State transitions
+
+## Content
+
+- [Setup](.docs/README.md#setup)
+- [State](.docs/README.md#state)
+- [Transitions](.docs/README.md#transitions)
+- [Example usage](.docs/README.md#example-usage)
+
+## Setup
+
+```bash
+composer require tlapnet/stamus
+```
+
 ## State
 
 A state in state machine that can be verified whether can be transitioned to another state. State accepts unique ID and optional context
